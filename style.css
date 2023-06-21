@@ -1,0 +1,29 @@
+ * {
+     background-color: blanchedalmond;
+     text-align: center;
+
+ }
+
+ button {
+    border:2px solid red;
+    margin: 2%;
+
+
+    
+ }
+
+ nav a {
+     
+     text-decoration: none;
+     color: rgb(35, 20, 120);
+ }
+
+ .names {
+     list-style: none;
+ }
+
+ .names a {
+     color: brown;
+     text-decoration: none;
+     text-align: end;
+ }
